@@ -188,7 +188,8 @@ footer {
 
 @media screen and (min-width: 760px) and (max-width: 1179px){
     .background_image {
-        background: url("./images/bg-header-desktop.png") no-repeat;
+        background-image: url("./images/bg-header-desktop.png");
+        background-repeat: no-repeat;
     }
 
     /* Button */
@@ -274,7 +275,8 @@ footer {
         max-width: 110rem;
     }
     .background_image {
-        background: url("./images/bg-header-desktop.png") no-repeat;
+        background-image: url("./images/bg-header-desktop.png");
+        background-repet: no-repeat;
     }
     .computer_image {
         width: 110%;
