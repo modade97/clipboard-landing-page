@@ -71,7 +71,7 @@ button {
 
 /* Mobile Design 375px*/
 .background_image {
-    background-image: url("images/bg-header-mobile.png");
+    background-image: url("./images/bg-header-mobile.png");
     background-repeat: no-repeat;
 }
 .content {
@@ -182,14 +182,14 @@ footer {
 /* Medium Design 700px*/
 @media screen and (min-width: 380px) {
     .background_image {
-        background-image: url("images/bg-header-desktop.png") no-repeat;
+        background-image: url("./images/bg-header-desktop.png") no-repeat;
         background-repeat: no-repeat;
     }
 }
 
 @media screen and (min-width: 760px) and (max-width: 1179px){
     .background_image {
-        background-image: url("images/bg-header-desktop.png");
+        background-image: url("./images/bg-header-desktop.png");
         background-repeat: no-repeat;
     }
 
@@ -276,7 +276,7 @@ footer {
         max-width: 110rem;
     }
     .background_image {
-        background-image: url("images/bg-header-desktop.png");
+        background-image: url("./images/bg-header-desktop.png");
         background-repet: no-repeat;
     }
     .computer_image {
