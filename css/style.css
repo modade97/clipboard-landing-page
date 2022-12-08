@@ -71,7 +71,8 @@ button {
 
 /* Mobile Design 375px*/
 .background_image {
-    background: url("./images/bg-header-mobile.png") no-repeat;
+    background-image: url("./images/bg-header-mobile.png");
+    background-repeat: no-repeat;
 }
 .content {
     margin: 1.8rem;
