@@ -159,7 +159,7 @@ footer {
     display: grid;
     place-items: center;
     gap: 2rem;
-    margin-top: 2.5rem;
+    margin-top: 4rem;
     padding: 2.5rem;
 }
 .footer_links {
