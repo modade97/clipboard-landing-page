@@ -273,7 +273,7 @@ footer {
         max-width: 110rem;
     }
     .background_image {
-        background: url("images/bg-header-desktop.png") no-repeat;
+        background: url("./images/bg-header-desktop.png") no-repeat;
     }
     .computer_image {
         width: 110%;
