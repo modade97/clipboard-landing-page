@@ -156,6 +156,7 @@ footer {
     display: grid;
     place-items: center;
     gap: 2rem;
+    margin-top: 2.5rem;
     padding: 2.5rem;
 }
 .footer_links {
