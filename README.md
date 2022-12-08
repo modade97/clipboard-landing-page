@@ -15,13 +15,12 @@ This is a solution to the [Clipboard landing page challenge on Frontend Mentor](
 - [Acknowledgments](#acknowledgments)
 
 ### Screenshot
-![](./screenshot/Screenshot%20-%20Clipboard_mobile.png.jpg)
-![](./screenshot/Screenshot%20-%20Clipboard_Desktop.png.jpg)
+![](./screenshot/Clipboard_mobile.png.jpg)
+![](./screenshot/Clipboard_Desktop.png.jpg)
 
 
 ### Links
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [MY SOLUTION](https://modade97.github.io/clipboard_landing_page)
 
 ## My process
 My process involed using the necessary HTML semantics for a start before applying the necessary CSS styles
@@ -35,6 +34,6 @@ My process involed using the necessary HTML semantics for a start before applyin
 
 
 ## Author
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/@modade97)
-- Twitter - [@yourusername](https://www.twitter.com/@modadegospel)
+- Frontend Mentor - [Modade](https://www.frontendmentor.io/profile/@modade97)
+- Twitter - [David](https://www.twitter.com/@modadegospel)
 
