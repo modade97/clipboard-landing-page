@@ -94,6 +94,9 @@ button {
     margin: 2rem;
     padding: 2rem;
 }
+.web_logo {
+    margin-top: 2rem;
+}
 /* Font Mobile */
 h1, h2, h3  {
     margin: 1rem;
@@ -215,7 +218,7 @@ footer {
     }
 
     .arrange2 {
-        margin: 2rem;
+        margin: 1.2rem;
         display: flex;
         flex-direction: column;
         align-items: stretch;
