@@ -3,20 +3,16 @@ This is a solution to the [Clipboard landing page challenge on Frontend Mentor](
 
 ## Table of contents
 - [Overview](#overview)
-  - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
 ### Screenshot
-![](./screenshot/Clipboard_mobile.png.jpg)
-![](./screenshot/Clipboard_Desktop.png.jpg)
+![](./screenshot/Screenshot%20-%20Clipboard_mobile.png)
+![](./screenshot/Screenshot%20-%20Clipboard_Desktop.png)
 
 
 ### Links
