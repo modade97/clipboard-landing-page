@@ -16,7 +16,7 @@ This is a solution to the [Clipboard landing page challenge on Frontend Mentor](
 
 
 ### Links
-- Solution URL: [MY SOLUTION](https://modade97.github.io/clipboard_landing_page)
+- Solution URL: [MY SOLUTION](https://modade97.github.io/clipboard-landing-page)
 
 ## My process
 My process involed using the necessary HTML semantics for a start before applying the necessary CSS styles
